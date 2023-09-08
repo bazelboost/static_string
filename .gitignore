@@ -6,3 +6,10 @@ Win32/
 x64/
 .vs/
 out/
+
+# Bazel
+/bazel-*
+/external
+/.cache
+/compile_commands.json
+user.bazelrc
